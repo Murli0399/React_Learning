@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.hello {
+  color: white;
+  background: blue;
+  padding: 20px;
+  font-size: 40px;
+}
