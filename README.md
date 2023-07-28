@@ -1,4 +1,4 @@
-## for creating a new react app 
+## for creating a new React app 
 ```
 npx create-react-app my-react-app
 ```
