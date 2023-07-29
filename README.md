@@ -1,9 +1,9 @@
-## for creating a new React app 
+## For creating a new React app 
 ```
 npx create-react-app my-react-app
 ```
 
-## for starting a react app
+## For starting a react app
 ```
 npm start
 ```
